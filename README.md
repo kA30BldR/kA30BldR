@@ -2,7 +2,7 @@
 - 👀 I’m interested in making sense
 - 🌱 I’m currently learning baby python
 - 💞️ I’m looking to collaborate on build stacks
-- ⚡ Real fact: Built a real time live tracking system for mobile app used without using any additional libraries, used polygons to draw lines on map
+- ⚡ Real fact: Built a real time live tracking system for mobile app without using any additional libraries, used polygons to draw lines on google map.
 
 <!---
 kA30BldR/kA30BldR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
